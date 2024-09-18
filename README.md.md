@@ -1,0 +1,1 @@
+My Obsidian vault of notes for a number of random but important things.
