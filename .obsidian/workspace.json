@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "1968ac36e627a161",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0ac2860ec5c5823",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32cf93b9b72db719",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Definitions/Files and Folders.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42c6b5c65ccf58ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Commands/Text Editors/Less.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e6f3714a9559727e",
+    "type": "split",
+    "children": [
+      {
+        "id": "98791bfd85437c4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0567871e69afb816",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "40d81e6329c9ee1d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a09e25c1facb8498",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 254.5
+  },
+  "right": {
+    "id": "417df5981bd25b51",
+    "type": "split",
+    "children": [
+      {
+        "id": "d40e442aa2b0be1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8595af887e0f44e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linux/Definitions/Files and Folders.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ce8e65ee718962a3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Linux/Definitions/Files and Folders.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fd78d6d8bac812e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fdcba8d89d529ab9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Linux/Definitions/Files and Folders.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0567871e69afb816",
+  "lastOpenFiles": [
+    "Linux/Commands/Text Editors",
+    "Linux/Commands/Command Documentation.md",
+    "Linux/Commands/Text Editors/Less.md",
+    "Linux/Commands/Basic Commands.md",
+    "Linux/Definitions/Files and Folders.md",
+    "Linux/Definitions",
+    "Linux/Commands",
+    "Linux/Troubleshooting.md",
+    "Data Annotation/Achilles Coding.md",
+    "Cyberpunk Red/Jobs/Easy Job.md",
+    "Linux/Untitled.canvas",
+    "Linux",
+    "Cyberpunk Red/Tables/Encounter Table.md",
+    "Data Annotation",
+    "Cyberpunk Red/Jobs/Job Template.md",
+    "Cyberpunk Red/Cyberpunk Todo.md",
+    "Cyberpunk Red/Cyberpunk Red.md",
+    "Cyberpunk Red/World Lore/History",
+    "Cyberpunk Red/World Lore/Factions",
+    "Cyberpunk Red/World Lore/Locations",
+    "Cyberpunk Red/Jobs",
+    "Cyberpunk Red/Tables",
+    "Cyberpunk Red/World Lore",
+    "LeetCode Notes.md",
+    "Pasted image 20240912173430.png",
+    "Warhammer 40k/Tau Terrain/Tau Buildings.md",
+    "Welcome.md"
+  ]
+}
