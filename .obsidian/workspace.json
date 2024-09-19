@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Commands/Text Editors/Less.md",
+                "file": "Linux/Topics/Troubleshooting.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Linux/Commands/Text Editors/Less.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Linux/Topics/Troubleshooting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Linux/Topics/Troubleshooting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,11 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Linux/Topics/Troubleshooting.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -170,17 +171,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db4784798aa8a259",
+  "active": "42c6b5c65ccf58ab",
   "lastOpenFiles": [
-    "Linux/Definitions/Files and Folders.md",
-    "README.md",
-    "Linux/Commands/Text Editors",
+    "Linux/Commands/Troubleshooting Commands.md",
+    "Linux/Topics/Troubleshooting.md",
+    "Linux/Topics",
     "Linux/Commands/Command Documentation.md",
+    "Linux/Definitions/Files and Folders.md",
     "Linux/Commands/Text Editors/Less.md",
     "Linux/Commands/Basic Commands.md",
+    "README.md",
+    "Linux/Commands/Text Editors",
     "Linux/Definitions",
     "Linux/Commands",
-    "Linux/Troubleshooting.md",
     "Data Annotation/Achilles Coding.md",
     "Cyberpunk Red/Jobs/Easy Job.md",
     "Linux/Untitled.canvas",
@@ -194,7 +197,6 @@
     "Cyberpunk Red/World Lore/Factions",
     "Cyberpunk Red/World Lore/Locations",
     "Cyberpunk Red/Jobs",
-    "Cyberpunk Red/Tables",
     "LeetCode Notes.md",
     "Pasted image 20240912173430.png",
     "Warhammer 40k/Tau Terrain/Tau Buildings.md",
