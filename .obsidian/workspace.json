@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Commands/Basic Commands.md",
+                "file": "Linux/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Commands/Basic Commands.md",
+                "file": "Linux/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Commands/Basic Commands.md",
+                "file": "Linux/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Commands/Basic Commands.md"
+                "file": "Linux/README.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "c9934d96c8d46054",
   "lastOpenFiles": [
-    "Linux/Commands/Template For Command Notes.md",
     "Linux/Commands/Basic Commands.md",
+    "Linux/README.md",
+    "Linux/Commands/Template For Command Notes.md",
     "Linux/Topics/IO Redirection.md",
     "Linux/Definitions/Files and Folders.md",
     "Linux/Contents.md",
