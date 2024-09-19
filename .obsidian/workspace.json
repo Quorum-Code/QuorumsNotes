@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f0ac2860ec5c5823",
+        "id": "3e52c395986ca0c8",
         "type": "tabs",
         "children": [
           {
-            "id": "32cf93b9b72db719",
+            "id": "c9934d96c8d46054",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Definitions/Files and Folders.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42c6b5c65ccf58ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Topics/Troubleshooting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db4784798aa8a259",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Commands/Text Editors/Less.md",
+                "file": "Linux/Commands/Basic Commands.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pwd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Topics/Troubleshooting.md",
+                "file": "Linux/Commands/Basic Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Topics/Troubleshooting.md",
+                "file": "Linux/Commands/Basic Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Topics/Troubleshooting.md"
+                "file": "Linux/Commands/Basic Commands.md"
               }
             }
           }
@@ -171,20 +146,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42c6b5c65ccf58ab",
+  "active": "c9934d96c8d46054",
   "lastOpenFiles": [
-    "Linux/Commands/Troubleshooting Commands.md",
-    "Linux/Topics/Troubleshooting.md",
-    "Linux/Topics",
-    "Linux/Commands/Command Documentation.md",
-    "Linux/Definitions/Files and Folders.md",
-    "Linux/Commands/Text Editors/Less.md",
+    "Linux/Commands/Template For Command Notes.md",
     "Linux/Commands/Basic Commands.md",
+    "Linux/Topics/IO Redirection.md",
+    "Linux/Definitions/Files and Folders.md",
+    "Linux/Contents.md",
+    "Linux/Commands/Text Editors/Less.md",
+    "2024-09-19.md",
+    "Linux/Topics/Troubleshooting.md",
+    "Linux/Definitions/Directory.md",
+    "Linux/Commands/Troubleshooting Commands.md",
+    "Linux/Commands/Command Documentation.md",
+    "Untitled.canvas",
+    "Data Annotation/Achilles Coding.md",
+    "Warhammer 40k/Tau Terrain/Tau Buildings.md",
+    "LeetCode/LeetCode Notes.md",
+    "Files.md",
     "README.md",
+    "symlinks.md",
+    "Linux/Topics",
     "Linux/Commands/Text Editors",
     "Linux/Definitions",
     "Linux/Commands",
-    "Data Annotation/Achilles Coding.md",
     "Cyberpunk Red/Jobs/Easy Job.md",
     "Linux/Untitled.canvas",
     "Linux",
@@ -197,9 +182,7 @@
     "Cyberpunk Red/World Lore/Factions",
     "Cyberpunk Red/World Lore/Locations",
     "Cyberpunk Red/Jobs",
-    "LeetCode Notes.md",
     "Pasted image 20240912173430.png",
-    "Warhammer 40k/Tau Terrain/Tau Buildings.md",
     "Welcome.md"
   ]
 }

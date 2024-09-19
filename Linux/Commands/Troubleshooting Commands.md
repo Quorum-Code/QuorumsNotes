@@ -1,3 +1,4 @@
+#linux 
 ### Ping
 #ping #network #connection 
 
@@ -17,6 +18,6 @@ Displays active network connections.
 ### Traceroute
 #traceroute #network #connection 
 #ubuntu
-#### `traceroute [IPv4]`
+#### `traceroute [IP address]`
 
 Traces the route of a packet to the designated IPv4.

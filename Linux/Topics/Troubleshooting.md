@@ -1,3 +1,4 @@
+#linux 
 # Boot Issue Troubleshooting
 
 ### Viewing the boot logs after a crash.
