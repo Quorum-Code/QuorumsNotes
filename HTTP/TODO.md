@@ -1,0 +1,1 @@
+* DNS host resolution for hostnames to local IPs, at `/etc/hosts`

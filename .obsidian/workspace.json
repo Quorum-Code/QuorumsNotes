@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/README.md",
+                "file": "HTTP/TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/README.md",
+                "file": "HTTP/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/README.md",
+                "file": "HTTP/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/README.md"
+                "file": "HTTP/TODO.md"
               }
             }
           }
@@ -148,8 +148,19 @@
   },
   "active": "c9934d96c8d46054",
   "lastOpenFiles": [
-    "Linux/Commands/Basic Commands.md",
+    "HTTP/Status Codes.md",
+    "HTTP/TODO.md",
+    "HTTP/Definitions.md",
+    "Kubernetes/TODO.md",
+    "Kubernetes/What is Kubernetes.md",
+    "Docker",
+    "Linux/TODO.md",
+    "HTTP",
+    "Kubernetes/Commands.md",
+    "Kubernetes/Terms.md",
     "Linux/README.md",
+    "Kubernetes",
+    "Linux/Commands/Basic Commands.md",
     "Linux/Commands/Template For Command Notes.md",
     "Linux/Topics/IO Redirection.md",
     "Linux/Definitions/Files and Folders.md",
@@ -171,19 +182,10 @@
     "Linux/Commands/Text Editors",
     "Linux/Definitions",
     "Linux/Commands",
-    "Cyberpunk Red/Jobs/Easy Job.md",
     "Linux/Untitled.canvas",
     "Linux",
-    "Cyberpunk Red/Tables/Encounter Table.md",
     "Data Annotation",
-    "Cyberpunk Red/Jobs/Job Template.md",
-    "Cyberpunk Red/Cyberpunk Todo.md",
-    "Cyberpunk Red/Cyberpunk Red.md",
     "Cyberpunk Red/World Lore/History",
-    "Cyberpunk Red/World Lore/Factions",
-    "Cyberpunk Red/World Lore/Locations",
-    "Cyberpunk Red/Jobs",
-    "Pasted image 20240912173430.png",
-    "Welcome.md"
+    "Pasted image 20240912173430.png"
   ]
 }
