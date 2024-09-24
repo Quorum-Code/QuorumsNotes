@@ -1,3 +1,5 @@
+#cyberpunk-red
+
 1. Introduction
 2. Objectives
 3. Rewards

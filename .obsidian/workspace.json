@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTTP/TODO.md",
+                "file": "Kubernetes/Volumes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75d2b1b5608b1cb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/Kubernetes Config Maps.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTTP/TODO.md",
+                "file": "Kubernetes/Volumes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTTP/TODO.md",
+                "file": "Kubernetes/Volumes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTTP/TODO.md"
+                "file": "Kubernetes/Volumes.md"
               }
             }
           }
@@ -148,36 +160,36 @@
   },
   "active": "c9934d96c8d46054",
   "lastOpenFiles": [
-    "HTTP/Status Codes.md",
-    "HTTP/TODO.md",
-    "HTTP/Definitions.md",
+    "Kubernetes/Kubernetes Config Maps.md",
+    "Kubernetes/Volumes.md",
+    "Kubernetes/Pods.md",
+    "Kubernetes/Kubernetes Volumes.md",
     "Kubernetes/TODO.md",
+    "Cyberpunk Red/Cyberpunk Todo.md",
+    "Cyberpunk Red/Cyberpunk Red.md",
+    "Cyberpunk Red/Tables/Encounter Table.md",
+    "Cyberpunk Red/Jobs/Job Template.md",
+    "Cyberpunk Red/Jobs/Easy Job.md",
+    "Linux/Contents.md",
+    "Kubernetes/Kubernetes Contents.md",
+    "Kubernetes/Adding new environment variables to a deployment.md",
+    "Kubernetes/Commands.md",
+    "Kubernetes/Terms.md",
     "Kubernetes/What is Kubernetes.md",
+    "LeetCode/LeetCode Notes.md",
+    "HTTP/TODO.md",
+    "HTTP/Status Codes.md",
+    "HTTP/Definitions.md",
     "Docker",
     "Linux/TODO.md",
     "HTTP",
-    "Kubernetes/Commands.md",
-    "Kubernetes/Terms.md",
     "Linux/README.md",
     "Kubernetes",
     "Linux/Commands/Basic Commands.md",
     "Linux/Commands/Template For Command Notes.md",
     "Linux/Topics/IO Redirection.md",
     "Linux/Definitions/Files and Folders.md",
-    "Linux/Contents.md",
-    "Linux/Commands/Text Editors/Less.md",
-    "2024-09-19.md",
-    "Linux/Topics/Troubleshooting.md",
-    "Linux/Definitions/Directory.md",
-    "Linux/Commands/Troubleshooting Commands.md",
-    "Linux/Commands/Command Documentation.md",
     "Untitled.canvas",
-    "Data Annotation/Achilles Coding.md",
-    "Warhammer 40k/Tau Terrain/Tau Buildings.md",
-    "LeetCode/LeetCode Notes.md",
-    "Files.md",
-    "README.md",
-    "symlinks.md",
     "Linux/Topics",
     "Linux/Commands/Text Editors",
     "Linux/Definitions",

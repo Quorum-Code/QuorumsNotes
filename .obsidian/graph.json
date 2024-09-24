@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -18,14 +18,21 @@
       "query": "Linux",
       "color": {
         "a": 1,
-        "rgb": 6063574
+        "rgb": 16774912
       }
     },
     {
       "query": "LeetCode",
       "color": {
         "a": 1,
-        "rgb": 15255856
+        "rgb": 16753152
+      }
+    },
+    {
+      "query": "kubernetes",
+      "color": {
+        "a": 1,
+        "rgb": 47334
       }
     }
   ],
@@ -39,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0000000000000004,
+  "scale": 0.7132754626224423,
   "close": true
 }
