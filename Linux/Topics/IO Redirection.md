@@ -1,2 +1,2 @@
-#linux 
+#linux #redirection #io
 

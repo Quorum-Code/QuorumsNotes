@@ -1,5 +1,5 @@
 [[Commands]]
 [[Terms]]
 [[Kubernetes/TODO|TODO]]
-[[What is Kubernetes]]
+[[Intro To Kubernetes]]
 [[Adding new environment variables to a deployment]]

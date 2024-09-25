@@ -13,7 +13,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Volumes.md",
+                "file": "Kubernetes/Intro To Kubernetes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "730c8359d5c75ee8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/Pods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "078e21af9de5197d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/Pods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a64812571354589",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/Load Balancing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2f0f222415d9c41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/Containers.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pwd",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Volumes.md",
+                "file": "Kubernetes/Pods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Volumes.md",
+                "file": "Kubernetes/Pods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Volumes.md"
+                "file": "Kubernetes/Pods.md"
               }
             }
           }
@@ -158,46 +207,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9934d96c8d46054",
+  "active": "730c8359d5c75ee8",
   "lastOpenFiles": [
-    "Kubernetes/Kubernetes Config Maps.md",
-    "Kubernetes/Volumes.md",
+    "Kubernetes/Manifests.md",
     "Kubernetes/Pods.md",
+    "Kubernetes/Terms.md",
+    "YAML.md",
+    "Untitled.canvas",
+    "Kubernetes/Intro To Kubernetes.md",
+    "Kubernetes/Kubectl",
+    "Kubernetes/Commands.md",
+    "Kubernetes/Kubernetes Config Maps.md",
+    "Kubernetes/Containers.md",
+    "Kubernetes/Load Balancing.md",
+    "Linux/Commands/Basic Commands.md",
+    "Linux/Commands/Template For Command Notes.md",
+    "Linux/Common Tasks/Getting System Information.md",
+    "Linux/Commands/System Information Commands.md",
+    "Linux/Commands/Troubleshooting Commands.md",
+    "Linux/Common Tasks/Creating a New User.md",
+    "Linux/Common Tasks/Troubleshooting System Issues.md",
+    "Linux/Commands/Command Documentation.md",
+    "Linux/Common Tasks",
+    "Linux/Commands/Text Editors and Browsers/Less.md",
+    "Linux/Topics/IO Redirection.md",
+    "Linux/Topics/Piping IO.md",
+    "Kubernetes/Volumes.md",
     "Kubernetes/Kubernetes Volumes.md",
     "Kubernetes/TODO.md",
     "Cyberpunk Red/Cyberpunk Todo.md",
     "Cyberpunk Red/Cyberpunk Red.md",
     "Cyberpunk Red/Tables/Encounter Table.md",
-    "Cyberpunk Red/Jobs/Job Template.md",
-    "Cyberpunk Red/Jobs/Easy Job.md",
-    "Linux/Contents.md",
-    "Kubernetes/Kubernetes Contents.md",
-    "Kubernetes/Adding new environment variables to a deployment.md",
-    "Kubernetes/Commands.md",
-    "Kubernetes/Terms.md",
-    "Kubernetes/What is Kubernetes.md",
-    "LeetCode/LeetCode Notes.md",
-    "HTTP/TODO.md",
-    "HTTP/Status Codes.md",
-    "HTTP/Definitions.md",
     "Docker",
-    "Linux/TODO.md",
     "HTTP",
-    "Linux/README.md",
     "Kubernetes",
-    "Linux/Commands/Basic Commands.md",
-    "Linux/Commands/Template For Command Notes.md",
-    "Linux/Topics/IO Redirection.md",
-    "Linux/Definitions/Files and Folders.md",
-    "Untitled.canvas",
     "Linux/Topics",
-    "Linux/Commands/Text Editors",
+    "Linux/Commands/Text Editors and Browsers",
     "Linux/Definitions",
     "Linux/Commands",
     "Linux/Untitled.canvas",
     "Linux",
-    "Data Annotation",
-    "Cyberpunk Red/World Lore/History",
     "Pasted image 20240912173430.png"
   ]
 }

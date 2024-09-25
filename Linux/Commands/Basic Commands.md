@@ -1,10 +1,9 @@
 #linux #basic #commands
 
----
 ### Present Working Directory
 #pwd #commandline #directory 
 
-`pwd`
+`pwd [OPTION]...`
 
 Reads out the present working directory.
 
@@ -22,12 +21,12 @@ Use PWD from environment, even if it contains [symlinks](Files%20and%20Folders.m
 ### Change Directory
 #cd #directory #directory-manipulation 
 
-`cd [dir]`
+`cd [DIR]`
 
 Changes the shell working directory.
 
 #### Returns
-Returns 0 if the directory was successfully changed, non-zero otherwise.
+0 if the directory was successfully changed, non-zero otherwise.
 
 #### Options
 
@@ -43,15 +42,13 @@ Use the physical directory structure without following symbolic links, resolve s
 `-e`
 If the -P option is supplied, and the current working directory cannot be determined successfully, exit with a non-zero status.
 
-
 ---
 ### List
-#ls #directory  #directory-contents 
+#ls #directory #directory-contents 
 
-`ls [optional dir]`
+`ls [OPTION]... [FILE]...`
 
 List directory contents.
-
 #### Returns
 0 if OK,
 1 if minor problem (cannot access subdirectory),
@@ -93,9 +90,26 @@ List subdirectories recursively.
 `-i, --inode
 Print the index number of each file.
 
+---
+### Cat or Concatenate
+#cat #text #print-text 
 
+`cat [OPTION]... [FILE]...`
+
+Prints one or many files to the standard output.
+
+#### Options
+
+##### Number Lines
+`-n, --number
+Numbers each line of the output.
+
+##### Squeeze Blank Lines
+`-s, --squeeze-blank
+Suppresses repeated empty output lines. 
 
 ---
+
 
 Make Directory
 
