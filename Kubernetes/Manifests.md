@@ -2,7 +2,7 @@
 
 # What is a Manifest
 
-A Manifest is a file that specifies details about a Kubernetes Object. The common format is [[YAML]] but JSON format works as well.
+A Manifest is a file that specifies details about a Kubernetes Object such as [[Pods]], [[Services]], and [[Deployments]]. The common format is [[YAML]] but JSON format works as well.
 
 Manifests are often used with `kubectl apply -f [MANIFEST]`, which can create a Deployment, Service, or something else defined in that Manifest.
 

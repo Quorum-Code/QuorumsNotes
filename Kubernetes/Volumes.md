@@ -9,7 +9,7 @@ Pods have access to local filesystem, but the files are ephemeral. So they are d
 
 ## Persistent Volumes (PV)
 
-Persistent Volumes are a cluster-level resource that is created separately from pods and then attached to the pods. Somewhat similar to [[Kubernetes Config Maps]].
+Persistent Volumes are a cluster-level resource that is created separately from pods and then attached to the pods. Somewhat similar to [[Config Maps]].
 
 Statically or dynamically created.
 * Static PVs are created manually by a cluster admin

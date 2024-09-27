@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Intro To Kubernetes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "730c8359d5c75ee8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes/Pods.md",
+                "file": "Kubernetes/DNS for Services and Pods.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,14 +61,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Kubernetes Config Maps.md",
+                "file": "Kubernetes/Config Maps.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Pods.md",
+                "file": "Kubernetes/DNS for Services and Pods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Pods.md",
+                "file": "Kubernetes/DNS for Services and Pods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Pods.md"
+                "file": "Kubernetes/DNS for Services and Pods.md"
               }
             }
           }
@@ -207,46 +194,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "730c8359d5c75ee8",
+  "active": "c9934d96c8d46054",
   "lastOpenFiles": [
+    "Kubernetes/Namespaces.md",
+    "Kubernetes/DNS for Services and Pods.md",
+    "Kubernetes/Common Kubernetes Tasks/List Pod Environment Variables.md",
+    "Kubernetes/Commands.md",
+    "Kubernetes/Common Kubernetes Tasks.md",
+    "Kubernetes/Config Maps.md",
+    "Kubernetes/Containers.md",
+    "Kubernetes/Intro To Kubernetes.md",
+    "Linux/README.md",
     "Kubernetes/Manifests.md",
     "Kubernetes/Pods.md",
+    "Kubernetes/Kubernetes Contents.md",
+    "Kubernetes/Volumes.md",
+    "Kubernetes/TODO.md",
     "Kubernetes/Terms.md",
+    "Kubernetes/Load Balancing.md",
+    "Kubernetes/Kubernetes Volumes.md",
+    "Kubernetes/Database in Kubernetes.md",
+    "Kubernetes/Adding new environment variables to a deployment.md",
+    "Kubernetes/Common Kubernetes Tasks",
+    "Linux/Common Tasks/Creating a New User and User Management.md",
+    "Misc/Computer Science Terms.md",
+    "Misc",
     "YAML.md",
     "Untitled.canvas",
-    "Kubernetes/Intro To Kubernetes.md",
     "Kubernetes/Kubectl",
-    "Kubernetes/Commands.md",
-    "Kubernetes/Kubernetes Config Maps.md",
-    "Kubernetes/Containers.md",
-    "Kubernetes/Load Balancing.md",
     "Linux/Commands/Basic Commands.md",
     "Linux/Commands/Template For Command Notes.md",
     "Linux/Common Tasks/Getting System Information.md",
     "Linux/Commands/System Information Commands.md",
-    "Linux/Commands/Troubleshooting Commands.md",
-    "Linux/Common Tasks/Creating a New User.md",
-    "Linux/Common Tasks/Troubleshooting System Issues.md",
-    "Linux/Commands/Command Documentation.md",
     "Linux/Common Tasks",
-    "Linux/Commands/Text Editors and Browsers/Less.md",
-    "Linux/Topics/IO Redirection.md",
-    "Linux/Topics/Piping IO.md",
-    "Kubernetes/Volumes.md",
-    "Kubernetes/Kubernetes Volumes.md",
-    "Kubernetes/TODO.md",
-    "Cyberpunk Red/Cyberpunk Todo.md",
-    "Cyberpunk Red/Cyberpunk Red.md",
-    "Cyberpunk Red/Tables/Encounter Table.md",
     "Docker",
     "HTTP",
     "Kubernetes",
     "Linux/Topics",
     "Linux/Commands/Text Editors and Browsers",
     "Linux/Definitions",
-    "Linux/Commands",
     "Linux/Untitled.canvas",
-    "Linux",
     "Pasted image 20240912173430.png"
   ]
 }
