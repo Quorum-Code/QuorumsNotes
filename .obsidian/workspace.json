@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/DNS for Services and Pods.md",
+                "file": "Linux/Commands and Tools/Text Editors and Browsers/Neovim/Basic Controls.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/DNS for Services and Pods.md",
+                "file": "Linux/Commands and Tools/Text Editors and Browsers/Neovim/Basic Controls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/DNS for Services and Pods.md",
+                "file": "Linux/Commands and Tools/Text Editors and Browsers/Neovim/Basic Controls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/DNS for Services and Pods.md"
+                "file": "Linux/Commands and Tools/Text Editors and Browsers/Neovim/Basic Controls.md"
               }
             }
           }
@@ -196,8 +196,12 @@
   },
   "active": "c9934d96c8d46054",
   "lastOpenFiles": [
-    "Kubernetes/Namespaces.md",
+    "Linux/Common Tasks/Creating a New User and User Management.md",
+    "Linux/Commands and Tools/Text Editors and Browsers/Neovim/Basic Controls.md",
+    "Linux/Commands and Tools/Untitled.md",
+    "Linux/Commands and Tools/Text Editors and Browsers/Neovim",
     "Kubernetes/DNS for Services and Pods.md",
+    "Kubernetes/Namespaces.md",
     "Kubernetes/Common Kubernetes Tasks/List Pod Environment Variables.md",
     "Kubernetes/Commands.md",
     "Kubernetes/Common Kubernetes Tasks.md",
@@ -216,23 +220,19 @@
     "Kubernetes/Database in Kubernetes.md",
     "Kubernetes/Adding new environment variables to a deployment.md",
     "Kubernetes/Common Kubernetes Tasks",
-    "Linux/Common Tasks/Creating a New User and User Management.md",
     "Misc/Computer Science Terms.md",
     "Misc",
     "YAML.md",
     "Untitled.canvas",
     "Kubernetes/Kubectl",
-    "Linux/Commands/Basic Commands.md",
-    "Linux/Commands/Template For Command Notes.md",
-    "Linux/Common Tasks/Getting System Information.md",
-    "Linux/Commands/System Information Commands.md",
+    "Linux/Commands and Tools/Basic Commands.md",
+    "Linux/Commands and Tools/Template For Command Notes.md",
     "Linux/Common Tasks",
     "Docker",
     "HTTP",
     "Kubernetes",
     "Linux/Topics",
-    "Linux/Commands/Text Editors and Browsers",
-    "Linux/Definitions",
+    "Linux/Commands and Tools/Text Editors and Browsers",
     "Linux/Untitled.canvas",
     "Pasted image 20240912173430.png"
   ]
