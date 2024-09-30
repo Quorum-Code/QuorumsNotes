@@ -1,1 +1,7 @@
-{}
+{
+  "theme": "obsidian",
+  "cssTheme": "Obsidian Nord",
+  "enabledCssSnippets": [
+    "my-styles"
+  ]
+}

@@ -4,67 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3e52c395986ca0c8",
+        "id": "8a3bacc0c6d4bb82",
         "type": "tabs",
         "children": [
           {
-            "id": "c9934d96c8d46054",
+            "id": "1d133bee5277d5fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Commands and Tools/Text Editors and Browsers/Neovim/Basic Controls.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "078e21af9de5197d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes/Pods.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a64812571354589",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes/Load Balancing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2f0f222415d9c41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes/Containers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75d2b1b5608b1cb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes/Config Maps.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -117,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 200
   },
   "right": {
     "id": "417df5981bd25b51",
@@ -133,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Commands and Tools/Text Editors and Browsers/Neovim/Basic Controls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Commands and Tools/Text Editors and Browsers/Neovim/Basic Controls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linux/Commands and Tools/Text Editors and Browsers/Neovim/Basic Controls.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -182,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 247.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,45 +138,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9934d96c8d46054",
+  "active": "1d133bee5277d5fe",
   "lastOpenFiles": [
-    "Linux/Common Tasks/Creating a New User and User Management.md",
-    "Linux/Commands and Tools/Text Editors and Browsers/Neovim/Basic Controls.md",
-    "Linux/Commands and Tools/Untitled.md",
-    "Linux/Commands and Tools/Text Editors and Browsers/Neovim",
-    "Kubernetes/DNS for Services and Pods.md",
-    "Kubernetes/Namespaces.md",
-    "Kubernetes/Common Kubernetes Tasks/List Pod Environment Variables.md",
-    "Kubernetes/Commands.md",
+    "Database Management Systems/PostgreSQL/Server Administration/User Creation and Configuration.md",
+    "Database Management Systems/PostgreSQL/Server Administration/Role Privileges.md",
+    "Database Management Systems/PostgreSQL/Server Administration/Intro to Server Administration.md",
+    "Database Management Systems/PostgreSQL/Optimization/Supabase Docs.md",
+    "Database Management Systems/PostgreSQL/Server Administration/Explanation of Inherit Option.md",
+    "Database Management Systems/PostgreSQL/Optimization",
+    "Database Management Systems/PostgreSQL/Basics/PostgreSQL Version.md",
+    "Database Management Systems/PostgreSQL/Basics/Intro to Basics of PostgreSQL.md",
+    "Database Management Systems/PostgreSQL/Basics/Basics of Users.md",
+    "Database Management Systems/PostgreSQL/Advanced Features/Intro to Advanced Features in PostgreSQL.md",
+    "Database Management Systems/PostgreSQL/Basics/Spinning Up a PostgreSQL Server.md",
+    "Database Management Systems/PostgreSQL/Server Administration",
+    "Database Management Systems/PostgreSQL/Advanced Features",
+    "Linux/Common Tasks/Getting System Information.md",
+    "Database Management Systems/PostgreSQL/Basics/Untitled.md",
+    "Database Management Systems/PostgreSQL/Basics",
+    "Data Languages/YAML.md",
+    "Data Languages",
+    "README.md",
+    "Untitled.canvas",
+    "Kubernetes/Services.md",
+    "Kubernetes/Manifests.md",
+    "Kubernetes/Deployments.md",
     "Kubernetes/Common Kubernetes Tasks.md",
     "Kubernetes/Config Maps.md",
     "Kubernetes/Containers.md",
-    "Kubernetes/Intro To Kubernetes.md",
-    "Linux/README.md",
-    "Kubernetes/Manifests.md",
-    "Kubernetes/Pods.md",
-    "Kubernetes/Kubernetes Contents.md",
-    "Kubernetes/Volumes.md",
-    "Kubernetes/TODO.md",
-    "Kubernetes/Terms.md",
     "Kubernetes/Load Balancing.md",
-    "Kubernetes/Kubernetes Volumes.md",
-    "Kubernetes/Database in Kubernetes.md",
-    "Kubernetes/Adding new environment variables to a deployment.md",
-    "Kubernetes/Common Kubernetes Tasks",
     "Misc/Computer Science Terms.md",
+    "HTTP/Definitions.md",
+    "Kubernetes/Pods.md",
+    "Linux/Commands and Tools/Text Editors and Browsers/Neovim/Basic Controls.md",
+    "Database Management Systems/PostgreSQL",
+    "Database Management Systems",
+    "Linux/Common Tasks/Creating a New User and User Management.md",
+    "Linux/Commands and Tools/Text Editors and Browsers/Neovim",
+    "Kubernetes/Common Kubernetes Tasks",
     "Misc",
-    "YAML.md",
-    "Untitled.canvas",
-    "Kubernetes/Kubectl",
-    "Linux/Commands and Tools/Basic Commands.md",
-    "Linux/Commands and Tools/Template For Command Notes.md",
-    "Linux/Common Tasks",
-    "Docker",
-    "HTTP",
-    "Kubernetes",
-    "Linux/Topics",
-    "Linux/Commands and Tools/Text Editors and Browsers",
     "Linux/Untitled.canvas",
     "Pasted image 20240912173430.png"
   ]
