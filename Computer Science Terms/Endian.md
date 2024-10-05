@@ -1,6 +1,5 @@
-#computer-science
+#computer-science #bytes #memory #machine-code
 # Little Endian vs Big Endian
-#bytes #memory #machine-code
 
 Little and Big Endian are methods of byte ordering used by operation systems. Little Endian stores values in memory from least significant bits to most significant bits. Big Endian is the inverse. 
 

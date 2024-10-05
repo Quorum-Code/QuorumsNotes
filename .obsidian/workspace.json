@@ -11,8 +11,12 @@
             "id": "1d133bee5277d5fe",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/Intro/Container Orchestration.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kubernetes/Intro/Container Orchestration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Kubernetes/Intro/Container Orchestration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Kubernetes/Intro/Container Orchestration.md"
+              }
             }
           }
         ],
@@ -140,43 +148,43 @@
   },
   "active": "1d133bee5277d5fe",
   "lastOpenFiles": [
-    "Database Management Systems/PostgreSQL/Server Administration/User Creation and Configuration.md",
-    "Database Management Systems/PostgreSQL/Server Administration/Role Privileges.md",
-    "Database Management Systems/PostgreSQL/Server Administration/Intro to Server Administration.md",
-    "Database Management Systems/PostgreSQL/Optimization/Supabase Docs.md",
-    "Database Management Systems/PostgreSQL/Server Administration/Explanation of Inherit Option.md",
+    "Kubernetes/Intro/Containers.md",
+    "Kubernetes/Intro/The Problem.md",
+    "Kubernetes/Intro/Container Orchestration.md",
+    "Computer Science Terms/Endian.md",
+    "Computer Science Terms/Event-Driven Architecture.md",
+    "Computer Science Terms/Service-Oriented Architecture.md",
+    "Computer Science Terms/Computer Science Terms.md",
+    "README.md",
+    "Computer Science Terms",
+    "Kubernetes/README.md",
+    "Kubernetes/Intro",
+    "Kubernetes/Volumes.md",
+    "Kubernetes/TODO.md",
+    "Kubernetes/Terms.md",
+    "Kubernetes/Services.md",
+    "Kubernetes/Pods.md",
+    "Kubernetes/Namespaces.md",
+    "Kubernetes/Manifests.md",
+    "Kubernetes/Load Balancing.md",
+    "Kubernetes/Kubernetes Volumes.md",
+    "Kubernetes/Kubernetes Contents.md",
+    "Kubernetes/Intro To Kubernetes.md",
+    "Kubernetes/DNS for Services and Pods.md",
+    "Kubernetes/Deployments.md",
+    "Kubernetes/Database in Kubernetes.md",
+    "Kubernetes/Config Maps.md",
+    "Kubernetes/Common Kubernetes Tasks.md",
+    "Kubernetes/Adding new environment variables to a deployment.md",
     "Database Management Systems/PostgreSQL/Optimization",
-    "Database Management Systems/PostgreSQL/Basics/PostgreSQL Version.md",
-    "Database Management Systems/PostgreSQL/Basics/Intro to Basics of PostgreSQL.md",
-    "Database Management Systems/PostgreSQL/Basics/Basics of Users.md",
-    "Database Management Systems/PostgreSQL/Advanced Features/Intro to Advanced Features in PostgreSQL.md",
-    "Database Management Systems/PostgreSQL/Basics/Spinning Up a PostgreSQL Server.md",
     "Database Management Systems/PostgreSQL/Server Administration",
     "Database Management Systems/PostgreSQL/Advanced Features",
-    "Linux/Common Tasks/Getting System Information.md",
-    "Database Management Systems/PostgreSQL/Basics/Untitled.md",
     "Database Management Systems/PostgreSQL/Basics",
-    "Data Languages/YAML.md",
     "Data Languages",
-    "README.md",
     "Untitled.canvas",
-    "Kubernetes/Services.md",
-    "Kubernetes/Manifests.md",
-    "Kubernetes/Deployments.md",
-    "Kubernetes/Common Kubernetes Tasks.md",
-    "Kubernetes/Config Maps.md",
-    "Kubernetes/Containers.md",
-    "Kubernetes/Load Balancing.md",
-    "Misc/Computer Science Terms.md",
-    "HTTP/Definitions.md",
-    "Kubernetes/Pods.md",
-    "Linux/Commands and Tools/Text Editors and Browsers/Neovim/Basic Controls.md",
     "Database Management Systems/PostgreSQL",
     "Database Management Systems",
-    "Linux/Common Tasks/Creating a New User and User Management.md",
     "Linux/Commands and Tools/Text Editors and Browsers/Neovim",
-    "Kubernetes/Common Kubernetes Tasks",
-    "Misc",
     "Linux/Untitled.canvas",
     "Pasted image 20240912173430.png"
   ]
