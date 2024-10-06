@@ -5,4 +5,4 @@ Containers are not Kubernetes exclusive but are heavily used within the context 
 Containers run container images, which may be set up with runtimes, libraries, dependencies, and hold one or many applications, which are isolated from the host operating system. Containers are also isolated from each other unless otherwise configured. Applications within a container are not isolated from each other and share things such as memory, environment variables, and other resources. Applications in different containers are isolated from each other.
 
 # Next
-[[Container Orchestration]]
+[[Container Orchestration]] is how Kubernetes interacts with Containers.

@@ -1,4 +1,4 @@
-#kubernetes 
+#kubernetes #LFS158x
 # Monoliths
 The classic method of structuring applications is creating monoliths. All inclusive bundle of code that has everything it needs.
 

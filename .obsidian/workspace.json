@@ -4,22 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "8a3bacc0c6d4bb82",
+        "id": "da520c9bf438b920",
         "type": "tabs",
         "children": [
           {
-            "id": "1d133bee5277d5fe",
+            "id": "b3c0736474b56b1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Intro/Container Orchestration.md",
+                "file": "Kubernetes/History and Features/The Beginning.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "ed8e66199f89118a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/History and Features/Features.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "deba4f5f3ad94351",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Intro/Container Orchestration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Intro/Container Orchestration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kubernetes/Intro/Container Orchestration.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -146,20 +163,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d133bee5277d5fe",
+  "active": "deba4f5f3ad94351",
   "lastOpenFiles": [
+    "Kubernetes/README.md",
+    "Kubernetes/History and Features/The Beginning.md",
+    "Kubernetes/History and Features/README.md",
+    "Kubernetes/History and Features/Features.md",
+    "Kubernetes/History and Features/Why Use Kubernetes.md",
+    "Kubernetes/Intro/README.md",
+    "Kubernetes/Intro/Deploying Container Orchestrators.md",
+    "Kubernetes/Intro/Why Use Container Orchestrators.md",
+    "Kubernetes/Intro/Container Orchestration.md",
     "Kubernetes/Intro/Containers.md",
     "Kubernetes/Intro/The Problem.md",
-    "Kubernetes/Intro/Container Orchestration.md",
+    "Kubernetes/History and Features",
+    "Kubernetes/Volumes.md",
+    "Kubernetes/Kubernetes Volumes.md",
     "Computer Science Terms/Endian.md",
     "Computer Science Terms/Event-Driven Architecture.md",
     "Computer Science Terms/Service-Oriented Architecture.md",
     "Computer Science Terms/Computer Science Terms.md",
     "README.md",
     "Computer Science Terms",
-    "Kubernetes/README.md",
     "Kubernetes/Intro",
-    "Kubernetes/Volumes.md",
     "Kubernetes/TODO.md",
     "Kubernetes/Terms.md",
     "Kubernetes/Services.md",
@@ -167,15 +193,7 @@
     "Kubernetes/Namespaces.md",
     "Kubernetes/Manifests.md",
     "Kubernetes/Load Balancing.md",
-    "Kubernetes/Kubernetes Volumes.md",
     "Kubernetes/Kubernetes Contents.md",
-    "Kubernetes/Intro To Kubernetes.md",
-    "Kubernetes/DNS for Services and Pods.md",
-    "Kubernetes/Deployments.md",
-    "Kubernetes/Database in Kubernetes.md",
-    "Kubernetes/Config Maps.md",
-    "Kubernetes/Common Kubernetes Tasks.md",
-    "Kubernetes/Adding new environment variables to a deployment.md",
     "Database Management Systems/PostgreSQL/Optimization",
     "Database Management Systems/PostgreSQL/Server Administration",
     "Database Management Systems/PostgreSQL/Advanced Features",
@@ -184,7 +202,6 @@
     "Untitled.canvas",
     "Database Management Systems/PostgreSQL",
     "Database Management Systems",
-    "Linux/Commands and Tools/Text Editors and Browsers/Neovim",
     "Linux/Untitled.canvas",
     "Pasted image 20240912173430.png"
   ]
