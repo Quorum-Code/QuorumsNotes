@@ -7,4 +7,4 @@
 # Contents
 1. [[Kubernetes/Intro/README#Intro to Kubernetes|Intro to Kubernetes]]
 2. [[Kubernetes/History and Features/README|History and Features of Kubernetes]]
-3. 
+3. [[Architecture of Kubernetes]]

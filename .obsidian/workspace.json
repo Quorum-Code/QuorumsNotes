@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/History and Features/The Beginning.md",
+                "file": "Kubernetes/Architecture/Overview.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ed8e66199f89118a",
+            "id": "532639a015f9dd99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/History and Features/Features.md",
+                "file": "Kubernetes/History and Features/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,8 +39,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kubernetes/Architecture/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Kubernetes/Architecture/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Kubernetes/Architecture/Overview.md"
+              }
             }
           }
         ],
@@ -163,13 +166,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "deba4f5f3ad94351",
+  "active": "b3c0736474b56b1e",
   "lastOpenFiles": [
-    "Kubernetes/README.md",
-    "Kubernetes/History and Features/The Beginning.md",
+    "Kubernetes/Architecture/README.md",
+    "Kubernetes/Architecture/Overview.md",
     "Kubernetes/History and Features/README.md",
-    "Kubernetes/History and Features/Features.md",
+    "Kubernetes/README.md",
+    "Kubernetes/History and Features/Cloud Native Computing Foundation.md",
+    "Kubernetes/Architecture",
     "Kubernetes/History and Features/Why Use Kubernetes.md",
+    "Kubernetes/History and Features/The Beginning.md",
+    "Kubernetes/History and Features/Features.md",
     "Kubernetes/Intro/README.md",
     "Kubernetes/Intro/Deploying Container Orchestrators.md",
     "Kubernetes/Intro/Why Use Container Orchestrators.md",
@@ -191,9 +198,6 @@
     "Kubernetes/Services.md",
     "Kubernetes/Pods.md",
     "Kubernetes/Namespaces.md",
-    "Kubernetes/Manifests.md",
-    "Kubernetes/Load Balancing.md",
-    "Kubernetes/Kubernetes Contents.md",
     "Database Management Systems/PostgreSQL/Optimization",
     "Database Management Systems/PostgreSQL/Server Administration",
     "Database Management Systems/PostgreSQL/Advanced Features",
@@ -201,7 +205,6 @@
     "Data Languages",
     "Untitled.canvas",
     "Database Management Systems/PostgreSQL",
-    "Database Management Systems",
     "Linux/Untitled.canvas",
     "Pasted image 20240912173430.png"
   ]
