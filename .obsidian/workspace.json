@@ -6,6 +6,7 @@
       {
         "id": "da520c9bf438b920",
         "type": "tabs",
+        "dimension": 53.221288515406165,
         "children": [
           {
             "id": "b3c0736474b56b1e",
@@ -13,30 +14,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Architecture/Overview.md",
+                "file": "Kubernetes/Kubernetes Objects/Pods.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Pods"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "bff46178b0209605",
+        "type": "tabs",
+        "dimension": 46.778711484593835,
+        "children": [
           {
-            "id": "532639a015f9dd99",
+            "id": "79053b9702337c02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/History and Features/README.md",
+                "file": "Kubernetes/Common Tasks/Configuring Liveness and Readiness Probes.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "deba4f5f3ad94351",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
+              },
+              "icon": "lucide-file",
+              "title": "Configuring Liveness and Readiness Probes"
             }
           }
         ]
@@ -59,7 +63,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -74,7 +80,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -82,7 +90,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -105,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Architecture/Overview.md",
+                "file": "Vim/Basic Vim Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +123,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Basic Vim Setup"
             }
           },
           {
@@ -122,10 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Architecture/Overview.md",
+                "file": "Vim/Basic Vim Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Basic Vim Setup"
             }
           },
           {
@@ -136,7 +150,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -145,8 +161,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Architecture/Overview.md"
-              }
+                "file": "Kubernetes/Common Tasks/Configuring Liveness and Readiness Probes.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Configuring Liveness and Readiness Probes"
             }
           }
         ],
@@ -166,45 +184,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3c0736474b56b1e",
+  "active": "79053b9702337c02",
   "lastOpenFiles": [
-    "Kubernetes/Architecture/README.md",
-    "Kubernetes/Architecture/Overview.md",
-    "Kubernetes/History and Features/README.md",
+    "Kubernetes/Common Tasks/Rolling Updates.md",
+    "Kubernetes/Common Tasks/Configuring Liveness and Readiness Probes.md",
+    "Kubernetes/Kubernetes Objects/Pods.md",
+    "Kubernetes/Manifest Controls/Resource Requests and Limits.md",
+    "Kubernetes/Common Tasks/Building Container Images.md",
+    "Kubernetes/Manifest Controls",
+    "Kubernetes/Concepts/Untitled.md",
+    "Kubernetes/Kubernetes Objects/Common Kubernetes Objects.md",
+    "Kubernetes/Kubernetes Objects/Services.md",
     "Kubernetes/README.md",
-    "Kubernetes/History and Features/Cloud Native Computing Foundation.md",
-    "Kubernetes/Architecture",
-    "Kubernetes/History and Features/Why Use Kubernetes.md",
-    "Kubernetes/History and Features/The Beginning.md",
-    "Kubernetes/History and Features/Features.md",
-    "Kubernetes/Intro/README.md",
-    "Kubernetes/Intro/Deploying Container Orchestrators.md",
-    "Kubernetes/Intro/Why Use Container Orchestrators.md",
-    "Kubernetes/Intro/Container Orchestration.md",
-    "Kubernetes/Intro/Containers.md",
-    "Kubernetes/Intro/The Problem.md",
-    "Kubernetes/History and Features",
-    "Kubernetes/Volumes.md",
+    "Kubernetes/Services.md",
+    "Kubernetes/Kubernetes Objects/Labels.md",
+    "Kubernetes/Kubernetes Objects/Deployments.md",
+    "Kubernetes/Kubernetes Objects/Namespaces.md",
+    "Kubernetes/Kubernetes Objects/Replica Sets.md",
+    "Kubernetes/Kubernetes Objects/Volumes.md",
+    "Linux/Common Tasks/Network/Adding an IP to Known Hosts.md",
+    "Kubernetes/Config Maps.md",
+    "Kubernetes/Terms.md",
+    "Kubernetes/TODO.md",
+    "Kubernetes/Manifests.md",
+    "Kubernetes/Load Balancing.md",
     "Kubernetes/Kubernetes Volumes.md",
-    "Computer Science Terms/Endian.md",
-    "Computer Science Terms/Event-Driven Architecture.md",
-    "Computer Science Terms/Service-Oriented Architecture.md",
-    "Computer Science Terms/Computer Science Terms.md",
-    "README.md",
+    "Kubernetes/Kubernetes Contents.md",
+    "Kubernetes/Intro To Kubernetes.md",
+    "Kubernetes/Architecture/DNS for Services and Pods.md",
+    "Kubernetes/Architecture/Database in Kubernetes.md",
+    "Kubernetes/Kubernetes Objects",
+    "Kubernetes/Concepts",
+    "Vim",
+    "Linux/Common Tasks/Network",
+    "Kubernetes/Architecture",
+    "Kubernetes/History and Features",
     "Computer Science Terms",
     "Kubernetes/Intro",
-    "Kubernetes/TODO.md",
-    "Kubernetes/Terms.md",
-    "Kubernetes/Services.md",
-    "Kubernetes/Pods.md",
-    "Kubernetes/Namespaces.md",
     "Database Management Systems/PostgreSQL/Optimization",
-    "Database Management Systems/PostgreSQL/Server Administration",
-    "Database Management Systems/PostgreSQL/Advanced Features",
-    "Database Management Systems/PostgreSQL/Basics",
-    "Data Languages",
     "Untitled.canvas",
-    "Database Management Systems/PostgreSQL",
     "Linux/Untitled.canvas",
     "Pasted image 20240912173430.png"
   ]

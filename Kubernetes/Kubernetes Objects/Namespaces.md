@@ -1,5 +1,4 @@
-#kubernetes 
-
+#kubernetes #namespaces
 # What is a Namespace
 
 [Namespaces](https://kubernetes.io/docs/concepts/overview/working-with-objects/namespaces/) are a tool to keep Kubernetes systems organized and a way to isolate cluster resources into groups, those resources being Kubernetes objects. 

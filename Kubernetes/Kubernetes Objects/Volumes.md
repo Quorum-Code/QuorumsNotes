@@ -1,4 +1,4 @@
-#kubernetes 
+#kubernetes #volumes
 
 ## Local Storage
 Pods have access to local filesystem, but the files are ephemeral. So they are deleted when a pod is restarted or deleted.
